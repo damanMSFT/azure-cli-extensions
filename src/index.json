@@ -64047,8 +64047,8 @@
         ],
         "stack-hci-vm": [
             {
-                "downloadUrl": "https://hybridaksstorage.z13.web.core.windows.net/SelfServiceVM/CLI/stack_hci_vm-0.1.2-py3-none-any.whl",
-                "filename": "stack_hci_vm-0.1.2-py3-none-any.whl",
+                "downloadUrl": "https://hybridaksstorage.z13.web.core.windows.net/SelfServiceVM/CLI/stack_hci_vm-0.1.11-py3-none-any.whl",
+                "filename": "stack_hci_vm-0.1.11-py3-none-any.whl",
                 "metadata": {
                     "azext.isPreview": true,
                     "azext.minCliCoreVersion": "2.15.0",
@@ -64082,9 +64082,9 @@
                     "metadata_version": "2.0",
                     "name": "stack-hci-vm",
                     "summary": "Microsoft Azure Command-Line Tools AzureStackHCIClient Extension ",
-                    "version": "0.1.2"
+                    "version": "0.1.11"
                 },
-                "sha256Digest": "40de4e8a6fbde3afc3f760b6014ecc4d37e8e0ec72f4ff2a5d009cfadbf9938b"
+                "sha256Digest": "6D9E558E73C9FFF82940FF75ECD0F7DF040DA4C1086D341443DCFE6AFB07A784"
             },
             {
                 "downloadUrl": "https://hybridaksstorage.z13.web.core.windows.net/SelfServiceVM/CLI/stack_hci_vm-0.1.6-py3-none-any.whl",
